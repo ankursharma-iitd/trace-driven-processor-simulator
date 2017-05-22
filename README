@@ -1,0 +1,4 @@
+Pipelined Processor Simulator has the following assumptions in our case:
+1. No branch instructions/SVG for less than 4 instructions
+2. mult,madd are excluded in our simulator
+3. Control signals are not displayed on svg
